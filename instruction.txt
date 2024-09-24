@@ -1,0 +1,12 @@
+Description of the tasks from HW 2: Step 0 was to set up GitHub and to configure it. This allowed for my GitHub account 
+to be connected with my device terminal. Step 1 taught me how to create a repository on GitHub and how to clone it on my 
+terminal so i can create changes through my terminal. Step 2 taught me how to make changes to my repository. It taught 
+me how to create a files, edit the files, add the changes, and how to commit the changes with a message. I could also 
+check the status of my changes using git status. Step 3 taught me how to create a seperate branch from the main and how 
+to make changes there and then add them to the main branch. I learned how to make sure teh changes were transfered to my 
+GitHub. I also was able to view my commits using git log and how to squash 3 commits into 1. I learned how to switch 
+through branches and how to transfer information accross branches. Step 4 taught me how to fork an upstream repository 
+to make changes into someone else's repository. Step 5 taught me how to create a pull request and how to solve any 
+conflicts. 
+Links to new repositories: git@github.com:aroojkam/myawesomerepo.git
+git@github.com:aroojkam/intern-bootcamp-git.git
